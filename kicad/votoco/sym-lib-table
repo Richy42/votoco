@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "votoco")(type "KiCad")(uri "${KIPRJMOD}/votoco.kicad_sym")(options "")(descr ""))
+)
