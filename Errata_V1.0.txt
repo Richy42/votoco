@@ -1,0 +1,3 @@
+* R4 should be pullup
+* Pullup on ENN missing
+* C16 should be 100µ (or several smaler one) - extremely important!
