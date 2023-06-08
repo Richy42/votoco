@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "votoco")(type "KiCad")(uri "${KIPRJMOD}/votoco.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/votoco.pretty/Library.pretty")(options "")(descr ""))
 )
