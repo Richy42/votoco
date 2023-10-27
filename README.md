@@ -16,4 +16,5 @@ PrintHeadController has the following features:
 * BLTouch support
 * Debug pins accessible
 * Accelerometer ADXL245
-* Don't Touch It connector
+* Don't Touch It connector (https://github.com/Richy42/DontTouchIt)
+* 
