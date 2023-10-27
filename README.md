@@ -10,9 +10,10 @@ PrintHeadController has the following features:
 * TMC2209 on board for the extruder
 * Supports the UART configuration of TMC driver
 * 12 V and 24 V capable
-* 3 Digital inputs
+* 2 Digital inputs
 * 3 MOSFET outputs (e.g. hotend heater, fans)
 * 1 Thermistor inputs
 * BLTouch support
 * Debug pins accessible
 * Accelerometer ADXL245
+* Don't Touch It connector
